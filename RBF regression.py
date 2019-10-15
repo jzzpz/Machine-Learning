@@ -12,7 +12,7 @@ from sklearn.model_selection import train_test_split
 # from sklearn.datasets import make_classification
 # from sklearn.svm import SVC
 # from sklearn.kernel_approximation import (RBFSampler)
-# from sklearn.naive_bayes import GaussianNB
+
 
 from sklearn import svm
 
