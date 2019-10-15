@@ -1,20 +1,8 @@
-# from sklearn.gaussian_process.kernels import RBF
 import numpy as np
-# import random
-# from math import exp
 import pandas as pd
 from sklearn.kernel_ridge import KernelRidge
 from sklearn.metrics import mean_squared_error
-from sklearn.metrics import accuracy_score
-# from sklearn.gaussian_process import GaussianProcessClassifier
 from sklearn.model_selection import train_test_split
-# from sklearn.svm import LinearSVC
-# from sklearn.datasets import make_classification
-# from sklearn.svm import SVC
-# from sklearn.kernel_approximation import (RBFSampler)
-
-
-from sklearn import svm
 
 
 def rbf():
